@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"0c32ae0b34963672","x":-65,"y":-320,"width":400,"height":400,"type":"link","url":"https://www.bing.com/videos/riverview/relatedvideo?q=waz+mahfil&mid=1467563874DC0DAFC1C81467563874DC0DAFC1C8&FORM=VIRE"},
+		{"id":"b60cebf92755f90f","type":"text","text":"         Industry network ","x":-320,"y":-120,"width":250,"height":60},
+		{"id":"a7cd056b30992da9","type":"file","file":"__Media/customer churning analysis using machine learning algorithms.pdf","x":-5,"y":-400,"width":405,"height":310},
+		{"id":"9698a6f9f408f3d4","x":-388,"y":-500,"width":233,"height":116,"type":"file","file":"__Media/blockchain.jpg"}
+	],
+	"edges":[
+		{"id":"0fe56d5970e4066d","fromNode":"b60cebf92755f90f","fromSide":"top","toNode":"9698a6f9f408f3d4","toSide":"bottom"},
+		{"id":"a37daadfe05815f8","fromNode":"b60cebf92755f90f","fromSide":"right","toNode":"a7cd056b30992da9","toSide":"bottom"}
+	]
+}

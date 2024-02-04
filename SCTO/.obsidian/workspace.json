@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "e426d637fad6857b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aacf8be90c44d4b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 135.1001518987342,
+                  "y": -119.75275949367085,
+                  "zoom": -0.0036477770151446113
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2aacf8be90c44d4b",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "__Media/Pasted image 20221202163803.png",
+    "__Media/customer churning analysis using machine learning algorithms.pdf",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Mind mapping.md",
+    "__Media/Pasted image 20221214121016.png",
+    "Canvas/Start here.canvas",
+    "Canvas/Sample.canvas",
+    "Canvas/Readme canvas.md",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Brainstorm.canvas",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Check box.md",
+    "Untitled 2.md",
+    "Markdown/Markdown.md",
+    "cl.md",
+    "Dataview/≡ƒæô List of Papers.md",
+    "1∩╕ÅΓâú Primary Sources/Shahizan 2020.md",
+    "Dataview/≡ƒùô∩╕Å Calendar.md",
+    "Dataview/Dataview 1.md",
+    "Dataview example.md",
+    "exercise 2/Combined.md",
+    "__Media/blockchain.jpg",
+    "1∩╕ÅΓâú Primary Sources/Pianka 1966.md",
+    "Dataview/dataview example.md",
+    "Dataview/Dataview Templates.md",
+    "Dataview/Dataview example.md",
+    "Untitled 1.md",
+    "1∩╕ÅΓâú Primary Sources/Dhekre 2023.md",
+    "1∩╕ÅΓâú Primary Sources/Connell 1964.md",
+    "Faisal Bin AL Abid.md",
+    "Faisal Bin Al Abid 2024.md",
+    "Untitled.md",
+    "image.md",
+    "Canvas/Reference Manager.canvas",
+    "exercise 2",
+    "__Media/Pasted image 20221214094010.png",
+    "Canvas/Book Dashboard.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "__Media/Zettelkasten steps.png",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "Markdown",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "Zettelkasten",
+    "Z",
+    "Dataview",
+    "__Papers/Waleed 2023.pdf",
+    "Pasted Image 20240202101844_201.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
+    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
+    "__Media/Pasted image 20221214131115.png"
+  ]
+}
